@@ -1,0 +1,16 @@
+{
+  "name": "political_demands_generator",
+  "version": "1.0.0",
+  "description": "I am a machine and these are my demands.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Emmett Mathison",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  }
+}
